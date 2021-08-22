@@ -22,7 +22,7 @@ these are possible conversion combinations of result
   
  Suggested: To visualize more see Lookup of conversion_infix_postfix_prefix folder in this directory
  
- ##2. Learn Data Structure
+## 2. Learn Data Structure
  This project is help begineer to learn the data structure by visualization things.
 There are four data structure and their different types and  some important properties are discuss.
 1. ARRAY
@@ -41,7 +41,8 @@ For each data structure, project discuss these task
 3. Deletion
 
 Suggested: To visualize more see Lookup of  Learn Data Structure folder in this directory
-##3. Trafic Management System
+
+## 3. Trafic Management System
 
 Trafic management system project give a feel of trafic manager.
 Procees of project
